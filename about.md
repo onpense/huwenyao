@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-author: 胡文耀
+author: HuWenyao
 permalink: /about/
 ---
 
